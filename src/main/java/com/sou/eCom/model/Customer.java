@@ -31,5 +31,5 @@ public class Customer {
     private String imageName;
     private String imageType;
     @Lob
-    private byte[] image;
+    private byte[] imageData;
 }
